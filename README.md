@@ -26,9 +26,9 @@ Here You can get to know me better....
 - Experimenting with serverless architectures using AWS Lambda and API Gateway.
 
 ## 💬 Let's Connect
-- 📫 You can reach me via email at [harshprateek39@gmail.com] (mailto:harshprateek39@gmail.com).
-- 💼 Connect with me on [Harsh0203] (https://www.linkedin.com/in/harsh-prateek-87434b1b7/).
-- 🌐 Visit my Portfolio] (https://portfolio-2-0-six-omega.vercel.app/) to learn more about my work.
+- 📫 You can reach me via email at [harshprateek39@gmail.com](mailto:harshprateek39@gmail.com).
+- 💼 Connect with me on [Harsh0203](https://www.linkedin.com/in/harsh-prateek-87434b1b7/).
+- 🌐 Visit my [Portfolio](https://portfolio-2-0-six-omega.vercel.app/) to learn more about my work.
 
 ## 🙏 Thanks for Visiting
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions, collaboration ideas, or just want to chat about all things tech. Looking forward to connecting with you! 😊
